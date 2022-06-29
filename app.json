@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/hufyej26/goodluck",
+  "repository": "https://github.com/hufyej26/goodluck",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
